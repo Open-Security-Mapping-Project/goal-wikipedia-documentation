@@ -3,6 +3,8 @@ OSMP Goal: Improving Wikipedia Documentation
 
 Using stub posts and redirects we can make sure that way more of the ICE detention facilities are documented on Wikipedia.
 
+A project of the [Open Security Mapping Project](https://github.com/Open-Security-Mapping-Project). Head there for more info and other goals.
+
 # General approach
 
 Wikipedia recommends "stub posts" for basic content that is below an "encyclopedic" level. We would look to
@@ -155,4 +157,19 @@ this explains that wikidata is also important for SEO and it is fine for stub po
 * https://en.wikipedia.org/wiki/Immigration_policy_of_the_second_Trump_administration
 * https://en.wikipedia.org/wiki/Immigration_detention_in_the_United_States
 * https://en.wikipedia.org/wiki/List_of_immigrant_detention_sites_in_the_United_States
-* 
+
+----
+
+# Info from the [OSMP front page Readme](https://github.com/Open-Security-Mapping-Project/)
+
+Wikipedia is a world-leading source of information summaries with strong SEO (search engine optimization presence). Many facilities have Wikipedia pages but many do not.
+Some are up to date and others are not. Wikipedia pages can link to OSM and to Wikidata "Q" numbers. A good description summary can be seen by millions of people at a
+glance all over the internet.
+
+Wikipedia is also multilingual so once there is an English page for a given site it is an easier prospect to add Spanish and other languages.
+
+Wikipedia it seems is a *good location* to add news report links, if they are reliable sources in the internal policy (no Daily Mail!).
+
+I am not familiar yet with adding OSM coordinates into Wikipedia but obviously that seems likely to be helpful.
+
+* https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources
