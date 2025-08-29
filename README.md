@@ -139,12 +139,12 @@ The essays are users' takes on how to deal with various Wikipedia tasks.
 """
 Even if you don't have the time or the inclination necessary to give that topic a full featured article-style treatment, it's okay to create a stub if you are willing to provide:
 
-    Enough information to make it clear what the subject of the article is and for other editors to expand upon it.
-    Adequate context, keep in mind that articles with little or no context usually end up being speedily deleted
-    A sorted {{stub}} tag. Try, for example, {{Bio-stub}} or {{US-bio-stub}} for a biography. (You can see a full list of stub categories or browse stub types organized by the stub sorting WikiProject.)
-    At least one good category
-    Consider alerting the appropriate WikiProject of the new article by adding their tags to the talk page.
-    Providing sources, even just a small number, is valuable in preventing the article's deletion. A plain Google search may provide some reliable sources, but they will likely be buried within many more unreliable ones. Google News, Books, and Scholar provide the most reliable sources that are useful for establishing notability. Don't just provide links to these sources, cite them to make it clear where your information came from.
+    * Enough information to make it clear what the subject of the article is and for other editors to expand upon it.
+    * Adequate context, keep in mind that articles with little or no context usually end up being speedily deleted
+    * A sorted {{stub}} tag. Try, for example, {{Bio-stub}} or {{US-bio-stub}} for a biography. (You can see a full list of stub categories or browse stub types organized by the stub sorting WikiProject.)
+    * At least one good category
+    * Consider alerting the appropriate WikiProject of the new article by adding their tags to the talk page.
+    * Providing sources, even just a small number, is valuable in preventing the article's deletion. A plain Google search may provide some reliable sources, but they will likely be buried within many more unreliable ones. Google News, Books, and Scholar provide the most reliable sources that are useful for establishing notability. Don't just provide links to these sources, cite them to make it clear where your information came from.
 
 this explains that wikidata is also important for SEO and it is fine for stub posts to be short.
 * https://www.legalmorning.com/stub-wikipedia-articles-and-how-to-manage-them/
